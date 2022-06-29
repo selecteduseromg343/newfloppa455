@@ -1,14 +1,3 @@
---[[
-    FE floppa
-    made by MyWorld#4430
-    discord.gg/pYVHtSJmEY
-    shirt: 
-    https://www.roblox.com/catalog/9582295098/floppashirt
-    (the script will work if you dont use the shirt too)
-]]
-
-if "floppa says MyWorlds reanimate is good" then
-    --reanimate by MyWorld#4430 discord.gg/pYVHtSJmEY
     local Vector3_101 = Vector3.new(1, 0, 1)
     local netless_Y = Vector3.new(0, 25.1, 0)
     local function getNetlessVelocity(realPartVelocity) --edit this if you have a better netless method
